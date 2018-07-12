@@ -7,3 +7,5 @@
 /.vs/kgy_Webapi/v15
 /.vs
 *.user
+/bin
+/obj
