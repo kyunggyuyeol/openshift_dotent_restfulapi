@@ -6,3 +6,6 @@ C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netco
 C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.runtimeconfig.dev.json
 C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.dll
 C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.csprojAssemblyReference.cache
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.pdb
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.dll
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.pdb
