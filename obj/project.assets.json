@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\kgy_pc\\Source\\Repos\\kgy_Webapi\\kgy_Webapi\\kgy_Webapi.csproj",
+      "projectUniqueName": "C:\\Users\\KGY_PC\\Source\\Repos\\dietapi\\openshift_dotent_restfulapi\\kgy_Webapi.csproj",
       "projectName": "kgy_Webapi",
-      "projectPath": "c:\\users\\kgy_pc\\Source\\Repos\\kgy_Webapi\\kgy_Webapi\\kgy_Webapi.csproj",
+      "projectPath": "C:\\Users\\KGY_PC\\Source\\Repos\\dietapi\\openshift_dotent_restfulapi\\kgy_Webapi.csproj",
       "packagesPath": "C:\\Users\\KGY_PC\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\kgy_pc\\Source\\Repos\\kgy_Webapi\\kgy_Webapi\\obj\\",
+      "outputPath": "C:\\Users\\KGY_PC\\Source\\Repos\\dietapi\\openshift_dotent_restfulapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
