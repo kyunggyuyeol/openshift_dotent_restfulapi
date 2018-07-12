@@ -1,0 +1,8 @@
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.csproj.CoreCompileInputs.cache
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.AssemblyInfoInputs.cache
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.AssemblyInfo.cs
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.deps.json
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.runtimeconfig.json
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.runtimeconfig.dev.json
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\bin\Debug\netcoreapp2.0\kgy_Webapi.dll
+C:\Users\KGY_PC\Source\Repos\dietapi\openshift_dotent_restfulapi\obj\Debug\netcoreapp2.0\kgy_Webapi.csprojAssemblyReference.cache
