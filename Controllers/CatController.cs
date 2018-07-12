@@ -17,7 +17,7 @@ namespace kgy_Webapi.Controllers
         {
             return new string[] { "value1", "value2" };
 
-        }7
+        }
 
         // GET: api/Cat/5
         [HttpGet("{id}", Name = "Get")]
