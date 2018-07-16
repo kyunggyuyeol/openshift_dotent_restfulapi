@@ -4,3 +4,5 @@
 dotnet 2.0 use
 
 openshift type C# program
+
+Push hook test
